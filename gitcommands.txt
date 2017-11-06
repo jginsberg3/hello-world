@@ -1,4 +1,10 @@
+tutourial
 http://rogerdudler.github.io/git-guide/
+
+useful commands
+cd to directory you want
+
+git init
 
 git commands
 
